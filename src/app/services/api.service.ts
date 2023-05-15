@@ -1,3 +1,3 @@
 export class GlobalAPI{
-    public static apiUrl = "https://renejr-ecommerce.herokuapp.com"
+    public static apiUrl = "http://localhost:3000"
 }
